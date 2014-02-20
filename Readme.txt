@@ -1,4 +1,3 @@
-HOME Directory will be the one, where this file is located.
 
 Steps for executions for windows
 
